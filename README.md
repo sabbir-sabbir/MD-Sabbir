@@ -1,4 +1,4 @@
-![I am mdsabbir](https://github.com/mdsabbir/mdsabbir/blob/main/code.png)
+![I am mdsabbir](https://github.com/sabbir-sabbir/MD-Sabbir/blob/main/code.png)
 
 <h1 align="center">Hi 👋,< I'm MD Sabbir <h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
